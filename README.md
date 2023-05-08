@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agnieszka</h1>
-<h3 align="center">Amateur frontend developer, UI designer and Electronis student.</h3>
+<h3 align="center">Amateur frontend developer, UI designer and Electronics student.</h3>
 
 - 🔭 I’m currently working on [AI Sudoku Solver](https://github.com/Frosenow/AI-Sudoku-Solver)
 
